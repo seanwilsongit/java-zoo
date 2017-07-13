@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Animal()
+comment0.text=\n\ Constructor\n
+comment1.params=color\ legs
+comment1.target=Animal(java.lang.String,\ int)
+comment1.text=\n\ Overloaded\ constructor\ that\ sets\ color\ and\ \#\ of\ legs\n\ \n\ @param\ color\ Initial\ color\n\ @param\ legs\ Initial\ \#\ of\ legs\n
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+comment2.text=\n\ Getter\ for\ color\n
+comment3.params=color
+comment3.target=void\ setColor(java.lang.String)
+comment3.text=\ \n\ Setter\ for\ color\n\ \n\ @param\ color\ New\ color\n
+comment4.params=
+comment4.target=int\ getLegs()
+comment4.text=\n\ Getter\ for\ legs\n
+comment5.params=legs
+comment5.target=void\ setLegs(int)
+comment5.text=\ \n\ Setter\ for\ legs\n\ \n\ @param\ legs\ New\ number\ of\ legs\n
+numComments=6
