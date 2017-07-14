@@ -119,7 +119,6 @@ public abstract class Animal
   @Override
   public String toString() {
     StringBuffer buffer = new StringBuffer("");
-    buffer.append("This animal is from "+this.getStudentName()+"\n");
     buffer.append("It is a "+this.getType()+"\n");
     buffer.append("Its name is "+this.getName()+", it is "+this.getColor()+" with "+this.getLegs()+" legs\n");
     buffer.append("Its disposition is "+this.getDisposition()+" and it says "+this.speak()+"\n");
