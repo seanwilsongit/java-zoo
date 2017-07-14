@@ -10,7 +10,9 @@ public class JavaZoo
   
   public static void main(String[] args) {
     
-    String[] animalList = {"BoopleSnoot","BoopleSnoot"};
+    // Change BoopleSnoot to the name of your animal class and run the 'main' 
+    // method to test your class.  You can also test your class using BlueJ
+    String[] animalList = {"BoopleSnoot"};
     
     try {
       for (int i=0; i<animalList.length; i++) {
