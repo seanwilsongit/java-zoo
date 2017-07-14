@@ -2,8 +2,8 @@
 /**
  * Abstract class Animal
  * 
- * @Mr. Jaffe
- * @1.0 2017-07-13
+ * @author Mr. Jaffe
+ * @version 1.0 2017-07-13
  */
 public abstract class Animal
 {

@@ -2,15 +2,15 @@
 /**
  * Write a description of class JavaZoo here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Mr. Jaffe
+ * @version 2017-07-014
  */
 public class JavaZoo
 {
   
   public static void main(String[] args) {
     
-    String[] animalList = {"Abcdef"};
+    String[] animalList = {"BoopleSnoot"};
     
     try {
       for (int i=0; i<animalList.length; i++) {
