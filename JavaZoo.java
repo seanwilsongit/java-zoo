@@ -10,11 +10,12 @@ public class JavaZoo
   
   public static void main(String[] args) {
     
-    String[] animalList = {"BoopleSnoot"};
+    String[] animalList = {"BoopleSnoot","BoopleSnoot"};
     
     try {
       for (int i=0; i<animalList.length; i++) {
         Object a = Class.forName(animalList[i]).newInstance();
+        System.out.println("Animal #"+(i+1));
         System.out.println(a.toString());
         System.out.println();
       }
